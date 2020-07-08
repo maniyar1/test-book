@@ -1,0 +1,6 @@
+[book]
+authors = ["Mani Kamali"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Kotlin highlighting test"
